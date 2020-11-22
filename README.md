@@ -4,4 +4,4 @@ Finds the xy coordinates, width and height of the terminal window, the position 
 
 requires libx11-dev.
 
-Tested on GNome, Cinnamon and Xfce.
+Tested on GNome and Cinnamon.
